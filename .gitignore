@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+recording.wav
+test_*.wav
+
+models/
+venv/
+.env
+
+.idea/
+.vscode/
